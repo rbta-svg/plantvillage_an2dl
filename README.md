@@ -3,7 +3,7 @@ A deep convolutional neural network to classify healthy and sick plant leaf spec
 
 The goal of this project is to classify images of leafs (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
 
-![alt text](https://ibb.co/yff20Td)
+![Image](https://ibb.co/yff20Td)
 
 You can find the full description of the problem and the approach to it in the project report! 
 
